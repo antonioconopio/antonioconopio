@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **to put together multiple stacks for scalable Applications.**
 
-- 📫 Feel free to reach me out **aconopio@uoguelph.ca**
+- 📫 Feel free to reach out **aconopio@uoguelph.ca**
 
 <!--Intro end-->
 
