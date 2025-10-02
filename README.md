@@ -18,15 +18,6 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on a **Shoe Marketplace Webapp (React, Tailwind, Node.js, Express.js, MySQL)**
-
-- 🌱 I’m currently learning **to put together multiple stacks for scalable Applications.**
-
-- 📫 Feel free to reach out **aconopio@uoguelph.ca**
-
-<!--Intro end-->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
