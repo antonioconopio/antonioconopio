@@ -1,65 +1,79 @@
+<!-- header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Antonio%20Conopio&fontSize=50&fontColor=c0caf5&fontAlignY=38&desc=Software%20Engineering%20%40%20University%20of%20Guelph&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Antonio</h1></summary>
-  </ul>
-</div>
-
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-  </ul>
-</div>
-
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+<!-- typing animation -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,git,css,docker,express,figma,firebase,github,html,java,js,ts,linux,md,mysql,nodejs,py,react,tailwind,vscode,r,&perline=14" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+%26+distributed+systems;Building+Orion+%E2%80%94+a+DAG+workflow+orchestrator;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Kubernetes;Looking+for+Winter+2027+SWE+co-op" alt="Typing SVG" />
   </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
+<!-- contact badges -->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-  
+  <!-- TODO: replace YOUR-HANDLE with your LinkedIn handle -->
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aconopio@uoguelph.ca"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <!-- TODO: replace with your website URL, or delete this line -->
+  <a href="https://YOUR-WEBSITE"><img src="https://img.shields.io/badge/Website-bb9af7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://u8views.com/api/v1/github/profiles/145353199/views/total-count.svg" />
 </p>
 
+---
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=antonioconopio&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+### 🙋🏻‍♂️ About Me
 
+```yaml
+name: Antonio Conopio
+school: University of Guelph — B.Comp Software Engineering (Co-op), Math minor
+previously: API Developer Intern @ Co-operators (12 months)
+  - migrated API template R/Plumber → Python/FastAPI
+  - 33% lower latency, test coverage 40% → 97%
+currently_building: Orion — distributed DAG workflow orchestration
+interests: [backend, distributed systems, developer tooling]
+looking_for: SWE co-op, Winter 2027 (8-month terms welcome)
+```
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🚀 Featured Projects
 
-----------------------------------------------------------------------
-[![aconopio profile views](https://u8views.com/api/v1/github/profiles/145353199/views/day-week-month-total-count.svg)](https://u8views.com/github/antonioconopio)
+<!-- TODO: set repo= to each project's exact repo name -->
+<p align="center">
+  <a href="https://github.com/antonioconopio/orion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonioconopio&repo=orion&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/antonioconopio/homehero">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonioconopio&repo=homehero&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</p>
 
+| | Project | Highlights |
+|---|---|---|
+| ⚙️ | **Orion** | DAG execution, Redis Streams consumer groups with at-least-once delivery, Go WebSocket hub for live status, workers that scale on queue depth in Kubernetes |
+| 🏠 | **HomeHero** | Household management app built in 24 hours at Hackville 2026 — SwiftUI + TCA frontend, Spring Boot API |
+| 📜 | **HistoryHaven** | Analytics & forecasting over 130k+ historical court records — FastAPI + scikit-learn |
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,java,ts,js,c,swift&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,react,redux,nodejs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,firebase&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux&theme=dark" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=antonioconopio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioconopio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=antonioconopio&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=antonioconopio&theme=tokyo-night&hide_border=true&radius=10&area=true" />
+</p>
+
+<!-- footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
