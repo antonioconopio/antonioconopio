@@ -11,10 +11,9 @@
 <!-- contact badges -->
 <p align="center">
   <!-- TODO: replace YOUR-HANDLE with your LinkedIn handle -->
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/antonio-conopio-b03918226/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aconopio@uoguelph.ca"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-  <!-- TODO: replace with your website URL, or delete this line -->
-  <a href="https://YOUR-WEBSITE"><img src="https://img.shields.io/badge/Website-bb9af7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.antonioconopio.com"><img src="https://img.shields.io/badge/Website-bb9af7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <img src="https://u8views.com/api/v1/github/profiles/145353199/views/total-count.svg" />
 </p>
 
