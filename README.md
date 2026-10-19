@@ -74,9 +74,7 @@ looking_for: SWE co-op, Winter 2027 (8-month terms welcome)
   <img src="https://streak-stats.demolab.com?user=antonioconopio&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=antonioconopio&theme=tokyo-night&hide_border=true&radius=10&area=true" />
-</p>
+
 
 <!-- footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
