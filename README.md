@@ -39,6 +39,9 @@ looking_for: SWE co-op, Winter 2027 (8-month terms welcome)
   <a href="https://github.com/antonioconopio/orion">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonioconopio&repo=orion&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
+  <a href="https://github.com/antonioconopio/lantern">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonioconopio&repo=lantern&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
   <a href="https://github.com/antonioconopio/homehero">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antonioconopio&repo=homehero&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
@@ -47,8 +50,9 @@ looking_for: SWE co-op, Winter 2027 (8-month terms welcome)
 | | Project | Highlights |
 |---|---|---|
 | ⚙️ | **Orion** | DAG execution, Redis Streams consumer groups with at-least-once delivery, Go WebSocket hub for live status, workers that scale on queue depth in Kubernetes |
+| 🔦 | **Lantern** | RAG service that answers natural-language questions over uploaded documents, built with Python, FastAPI, LangChain, and LangGraph.  |
 | 🏠 | **HomeHero** | Household management app built in 24 hours at Hackville 2026 — SwiftUI + TCA frontend, Spring Boot API |
-| 📜 | **HistoryHaven** | Analytics & forecasting over 130k+ historical court records — FastAPI + scikit-learn |
+
 
 ### 🛠️ Tech Stack
 
